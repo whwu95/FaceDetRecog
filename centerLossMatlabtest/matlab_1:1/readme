@@ -1,0 +1,8 @@
+deploy_center_loss_ms --> 99.30model 1/25
+deploy_center_loss_casia --> my center_loss model 1/128
+roc --> LFW veri
+
+
+98.55:1/128,casia training, thresh val (svm:98.87) 
+99.13:1/25,finetune 99.30,thresh val (svm:99.233)
+99.30:1/25,ms training,thresh val(svm:99.20)
